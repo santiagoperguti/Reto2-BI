@@ -3,7 +3,7 @@ Autor: Carlos Santiago Perdomo Gutiérrez
 Correo institucional: csperdomog@eafit.edu.co
 Programa académico: Administración de Negocios
 Fecha de entrega: 22/10/2025
-Repositorio: (agrega la URL de tu repo de GitHub)
+Repositorio: https://github.com/santiagoperguti/Reto2-BI.git
 
 🧾 Descripción
 Este proyecto desarrolla un tablero interactivo en Streamlit para analizar información contable almacenada en una base de datos SQLite. El tablero incluye consultas SQL (Q1 – Q4) y una consulta opcional (Q5), cada una acompañada de sus visualizaciones y conclusiones. El objetivo es presentar informes contables claros, visuales y fáciles de interpretar para la toma de decisiones.
